@@ -3,7 +3,7 @@ import time
 
 from selenium.webdriver.common.by import By
 
-from BlogAutoTest.common.Utils import BlogDriver
+from common.Utils import BlogDriver
 
 
 class BlogLogin:

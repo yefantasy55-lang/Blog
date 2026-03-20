@@ -2,7 +2,7 @@
 
 from selenium.webdriver.common.by import By
 
-from BlogAutoTest.common.Utils import BlogDriver
+from common.Utils import BlogDriver
 
 class BlogList:
     def __init__(self):

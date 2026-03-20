@@ -1,10 +1,10 @@
 import time
 
-from BlogAutoTest.common.Utils import BlogDriver
-from BlogAutoTest.tests.BlogDetailTest import BlogDetail
-from BlogAutoTest.tests.BlogEditTest import BlogEdit
-from BlogAutoTest.tests.BlogLoginTest import BlogLogin
-from BlogAutoTest.tests.BlogListTest import BlogList
+from common.Utils import BlogDriver
+from tests.BlogDetailTest import BlogDetail
+from tests.BlogEditTest import BlogEdit
+from tests.BlogLoginTest import BlogLogin
+from tests.BlogListTest import BlogList
 
 if __name__ == "__main__":
     # 登录测试

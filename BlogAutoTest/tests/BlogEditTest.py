@@ -1,6 +1,6 @@
 # 博客编辑页自动化测试
 
-from BlogAutoTest.common.Utils import BlogDriver
+from common.Utils import BlogDriver
 from selenium.webdriver.common.by import By
 
 class BlogEdit:

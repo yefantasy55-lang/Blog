@@ -1,7 +1,7 @@
 # 博客详情页自动化测试
 from selenium.webdriver.common.by import By
 
-from BlogAutoTest.common.Utils import BlogDriver
+from common.Utils import BlogDriver
 
 class BlogDetail:
     def __init__(self):
